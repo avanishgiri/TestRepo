@@ -35,7 +35,7 @@ void *reverse(char *string)
 
 int main()
 {
-	char* poo = strdup("hey there fuck stick");
+	char* poo = strdup("heelloo world");
 
 	reverse(poo);
 
